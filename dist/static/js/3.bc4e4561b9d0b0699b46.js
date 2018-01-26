@@ -1,0 +1,2 @@
+webpackJsonp([3],{"+dn/":function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var l={render:function(){var e=this.$createElement;return(this._self._c||e)("h1",[this._v("我是段子页面")])},staticRenderFns:[]},r=t("VU/8")(null,l,!1,null,null,null);n.default=r.exports}});
+//# sourceMappingURL=3.bc4e4561b9d0b0699b46.js.map
